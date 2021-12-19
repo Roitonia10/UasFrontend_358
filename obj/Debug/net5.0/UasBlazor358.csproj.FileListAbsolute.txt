@@ -636,7 +636,7 @@ C:\UasFrontend358\Blazor\UasBlazor358\obj\Debug\net5.0\build-gz\2MZ1USs3.gz
 C:\UasFrontend358\Blazor\UasBlazor358\obj\Debug\net5.0\build-gz\1TbxIJUb.gz
 C:\UasFrontend358\Blazor\UasBlazor358\obj\Debug\net5.0\RazorDeclaration\Pages\AddStudent.razor.g.cs
 C:\UasFrontend358\Blazor\UasBlazor358\obj\Debug\net5.0\Razor\Pages\AddStudent.razor.g.cs
-C:\UasFrontend358\Blazor\UasBlazor358\obj\Debug\net5.0\RazorDeclaration\Pages\DeleteStudent.razor.g.cs
-C:\UasFrontend358\Blazor\UasBlazor358\obj\Debug\net5.0\Razor\Pages\DeleteStudent.razor.g.cs
 C:\UasFrontend358\Blazor\UasBlazor358\obj\Debug\net5.0\RazorDeclaration\Pages\EditStudent.razor.g.cs
 C:\UasFrontend358\Blazor\UasBlazor358\obj\Debug\net5.0\Razor\Pages\EditStudent.razor.g.cs
+C:\UasFrontend358\Blazor\UasBlazor358\obj\Debug\net5.0\RazorDeclaration\Pages\Delete.razor.g.cs
+C:\UasFrontend358\Blazor\UasBlazor358\obj\Debug\net5.0\Razor\Pages\Delete.razor.g.cs

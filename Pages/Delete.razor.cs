@@ -2,13 +2,12 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using UasBlazor358.Models;
 using UasBlazor358.Services;
 using Microsoft.AspNetCore.Components;
 
 namespace UasBlazor358.Pages
 {
-    public partial class DeleteStudent
+    public partial class Delete
     {
         [Parameter]
         public string id { get; set; }

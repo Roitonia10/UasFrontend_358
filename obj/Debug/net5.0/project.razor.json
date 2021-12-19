@@ -61,59 +61,6 @@
         }
       },
       {
-        "HashCode": -232119101,
-        "Kind": "Components.Component",
-        "Name": "UasBlazor358.Pages.DeleteStudent",
-        "AssemblyName": "UasBlazor358",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "DeleteStudent"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "id",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "id"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UasBlazor358.Pages.DeleteStudent"
-        }
-      },
-      {
-        "HashCode": 1623731067,
-        "Kind": "Components.Component",
-        "Name": "UasBlazor358.Pages.DeleteStudent",
-        "AssemblyName": "UasBlazor358",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "UasBlazor358.Pages.DeleteStudent"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "id",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "id"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UasBlazor358.Pages.DeleteStudent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -2101414794,
         "Kind": "Components.Component",
         "Name": "UasBlazor358.Pages.DetailStudent",
@@ -163,59 +110,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "UasBlazor358.Pages.DetailStudent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1513403198,
-        "Kind": "Components.Component",
-        "Name": "UasBlazor358.Pages.EditStudent",
-        "AssemblyName": "UasBlazor358",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "EditStudent"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Id",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Id"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UasBlazor358.Pages.EditStudent"
-        }
-      },
-      {
-        "HashCode": -215723091,
-        "Kind": "Components.Component",
-        "Name": "UasBlazor358.Pages.EditStudent",
-        "AssemblyName": "UasBlazor358",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "UasBlazor358.Pages.EditStudent"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Id",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Id"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UasBlazor358.Pages.EditStudent",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -315,6 +209,112 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "UasBlazor358.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1513403198,
+        "Kind": "Components.Component",
+        "Name": "UasBlazor358.Pages.EditStudent",
+        "AssemblyName": "UasBlazor358",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EditStudent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UasBlazor358.Pages.EditStudent"
+        }
+      },
+      {
+        "HashCode": -215723091,
+        "Kind": "Components.Component",
+        "Name": "UasBlazor358.Pages.EditStudent",
+        "AssemblyName": "UasBlazor358",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "UasBlazor358.Pages.EditStudent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UasBlazor358.Pages.EditStudent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1207596552,
+        "Kind": "Components.Component",
+        "Name": "UasBlazor358.Pages.Delete",
+        "AssemblyName": "UasBlazor358",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Delete"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UasBlazor358.Pages.Delete"
+        }
+      },
+      {
+        "HashCode": 1638905978,
+        "Kind": "Components.Component",
+        "Name": "UasBlazor358.Pages.Delete",
+        "AssemblyName": "UasBlazor358",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "UasBlazor358.Pages.Delete"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UasBlazor358.Pages.Delete",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -13284,6 +13284,11 @@
       "FileKind": "component"
     },
     {
+      "FilePath": "c:\\UasFrontend358\\Blazor\\UasBlazor358\\Pages\\Delete.razor",
+      "TargetPath": "Pages\\Delete.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "c:\\UasFrontend358\\Blazor\\UasBlazor358\\Pages\\Counter.razor",
       "TargetPath": "Pages\\Counter.razor",
       "FileKind": "component"
@@ -13296,11 +13301,6 @@
     {
       "FilePath": "c:\\UasFrontend358\\Blazor\\UasBlazor358\\Pages\\AddStudent.razor",
       "TargetPath": "Pages\\AddStudent.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\UasFrontend358\\Blazor\\UasBlazor358\\Pages\\DeleteStudent.razor",
-      "TargetPath": "Pages\\DeleteStudent.razor",
       "FileKind": "component"
     },
     {

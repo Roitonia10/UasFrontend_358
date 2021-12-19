@@ -17,10 +17,6 @@ namespace UasBlazor358.Services
         {
             _httpClient = httpClient;
         }
-        public Task Delete(int id)
-        {
-            throw new NotImplementedException();
-        }
         public async Task<IEnumerable<Student>> GetAll()
         {
             var results = await _httpClient.GetFromJsonAsync<IEnumerable<Student>>("api/Student");
@@ -56,7 +52,10 @@ namespace UasBlazor358.Services
                 throw new Exception("gagal tambah data student");
             }
         }
-
+        public async Task Delete(int id)
+        {
+            await _httpClient.DeleteAsync($"api/Student/{id}");
+        }
 
     }
 }

@@ -9,8 +9,8 @@
     <thead>
         <tr>
             <th>Nim</th>
-            <th>Nama Belakang </th>
             <th>Nama Depan</th>
+            <th>Nama Belakang </th>
             <th>Tanggal Masuk</th>
 
         </tr>
@@ -20,13 +20,13 @@
         {
             <tr>
                 <td>@stud.studentID</td>
-                <td>@stud.lastName</td>
                 <td>@stud.firstName</td>
+                <td>@stud.lastName</td>
                 <td>@stud.enrollmentDate</td>
                 <td><a href="@($"studentdetail/{stud.studentID}")" class="btn btn-info">detail</a>
                     <a href="" class="btn btn-primary">enroll</a>
                     <a href="@($"editstudent/{stud.studentID}")" class="btn btn-warning">edit</a>
-                    <a href="@($"studentdelete/{stud.studentID}")" class="btn btn-danger">delete</a>
+                    <a href="@($"delete/{stud.studentID}")" class="btn btn-danger">delete</a>
                 </td>
             </tr>
         }
