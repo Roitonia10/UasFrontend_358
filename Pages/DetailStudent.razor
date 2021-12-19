@@ -1,0 +1,15 @@
+@page "/studentdetail/{id}"
+
+<div class="card">
+    <h1>Details</h1>
+    <h3>Student</h3>
+
+    <div class="card-body">
+        <p class="card-text"><b> Nim : </b> @Student.studentID</p>
+        <p class="card-text"><b>Nama Belakang :</b> @Student.lastName</p>
+        <p class="card-text"><b> Nama Depan :</b> @Student.firstName</p>
+        <p class="card-text"><b>Tanggal Masuk :</b> @Student.enrollmentDate</p>
+        <a href="@($"editstudent/{Student.studentID}")" class=" card-link">Edit |</a>
+        <a href="studentpage" class="card-link">Back to List</a>
+    </div>
+</div>
